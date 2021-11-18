@@ -1,9 +1,14 @@
-### Hi there 👋
+### Hi there 👋 ![](https://komarev.com/ghpvc/?username=Animadversio)
 
+I study computational neuroscience. I use deep generative models, optimization methods, and differential geometry to investigate visual representations in the brain and in the neural networks. 
 
+Quick Bio
+- I am currently a Neuroscience Ph.D. student working with professor Carlos R. Ponce at Harvard medical School. 
+  - Before the lab moved to HMS, we were affiliated with Washington University in St Louis.
+- I obtained B.S. in Physics at Peking University, in Yuanpei College. 
 
-![Binxu's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Animadversio&hide=Jupyter%20Notebook)
 ![Binxu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Animadversio&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Binxu's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Animadversio&hide=Jupyter%20Notebook&&layout=compact)
 
 <!--
 **Animadversio/Animadversio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
