@@ -2,9 +2,8 @@
 
 
 
-![Binxu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Animadversio&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-
 ![Binxu's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Animadversio&hide=Jupyter%20Notebook)
+![Binxu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Animadversio&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 <!--
 **Animadversio/Animadversio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
