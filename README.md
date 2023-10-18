@@ -3,11 +3,12 @@
 I study computational neuroscience. I use deep generative models, optimization methods, and differential geometry to investigate visual representations in the brain and in the neural networks. 
 
 Quick Bio
-- I am currently a Neuroscience Ph.D. student working with professor [Carlos R. Ponce](https://ponce.hms.harvard.edu/) at Harvard medical School. 
-  - Before the lab moved to HMS, we were affiliated with Washington University in St Louis.
-- I obtained B.S. in Physics at Peking University, in Yuanpei College, adviced by theoretical neuroscientist [Louis Tao](https://www.cbi.pku.edu.cn/people/cbifaculty/265951.htm). 
+- I am currently a Research Fellow in [Kempner Institute](https://www.harvard.edu/kempner-institute/leadership/#researchers). 
+- I obtained Ph.D. in Neuroscience at Washington University, working with professor [Carlos R. Ponce](https://ponce.hms.harvard.edu/) at Harvard Medical School. 
+  - The lab moved from Washington University to HMS in 2021.
+- I obtained B.S. in Physics at Peking University, in Yuanpei College, advised by theoretical neuroscientist [Louis Tao](https://www.cbi.pku.edu.cn/people/cbifaculty/265951.htm). 
 - My [academic website](https://scholar.harvard.edu/binxuw/home) with my teaching slides and papers. 
-- My [personal website](https://animadversio.github.io/) with my notes on math, ML and fun projects! 
+- My [personal website](https://animadversio.github.io/) with my notes on math, ML, and fun projects! 
 
 <img src="https://github-readme-stats.vercel.app/api?username=Animadversio&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=prs,issues" width="400"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Animadversio&hide=Jupyter%20Notebook&&layout=compact" width="400"/>
