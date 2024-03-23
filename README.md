@@ -3,7 +3,7 @@
 I study computational neuroscience. I use deep generative models, optimization methods, and differential geometry to investigate visual representations in the brain and in the neural networks. 
 
 Quick Bio
-- I am currently a Research Fellow in [Kempner Institute](https://www.harvard.edu/kempner-institute/leadership/#researchers). 
+- I am currently a NeuroAI in [Kempner Institute for the Study of Natural and Artificial Intelligence](https://www.harvard.edu/kempner-institute/leadership/#researchers). 
 - I obtained my Ph.D. in Neuroscience in 2023, working with professor [Carlos R. Ponce](https://ponce.hms.harvard.edu/) at Harvard Medical School. 
   - The lab originated at Washington University, and we moved from Washington University to HMS in 2021.
 - I obtained B.S. in Physics at Peking University, in Yuanpei College, advised by theoretical neuroscientist [Louis Tao](https://www.cbi.pku.edu.cn/people/cbifaculty/265951.htm). 
